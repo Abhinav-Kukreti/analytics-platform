@@ -7,7 +7,7 @@
 
 A modern, feature-rich analytics dashboard built with React, showcasing enterprise-level frontend development skills and modern web application architecture.
 
-![Dashboard Screenshot](screenshots/dashboard-light.png)
+![Dashboard Screenshot](screenshots/Screenshot (1).png)
 
 ## ✨ Key Features
 
