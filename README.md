@@ -7,6 +7,8 @@
 
 A modern, feature-rich analytics dashboard built with React, showcasing enterprise-level frontend development skills and modern web application architecture.
 
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_App-success?style=for-the-badge)](https://euphonious-cheesecake-ef9aec.netlify.app/)
+
 ![Dashboard Screenshot](https://github.com/Abhinav-Kukreti/analytics-platform/blob/main/screenshots/Screenshot%20(1).png)
 
 ## ✨ Key Features
