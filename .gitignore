@@ -1,6 +1,14 @@
 node_modules/
 .env
+<<<<<<< HEAD
 build/
 dist/
 .DS_Store
 *.log
+=======
+.aws/
+*.log
+.DS_Store
+build/
+dist/
+>>>>>>> d58f49691a8d1c56420a45a04a6c645b81c42466
