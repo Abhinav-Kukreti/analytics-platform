@@ -7,7 +7,7 @@
 
 A modern, feature-rich analytics dashboard built with React, showcasing enterprise-level frontend development skills and modern web application architecture.
 
-![Dashboard Screenshot](screenshots/Screenshot (1).png)
+![Dashboard Screenshot](https://github.com/Abhinav-Kukreti/analytics-platform/blob/main/screenshots/Screenshot%20(1).png)
 
 ## ✨ Key Features
 
@@ -37,17 +37,18 @@ Efficient state management, lazy loading, and optimized bundle size
 
 ## 🖥️ Screenshots
 
-### Light Mode Dashboard
-![Light Mode](screenshots/dashboard-light.png)
-
 ### Dark Mode Dashboard  
-![Dark Mode](screenshots/dashboard-dark.png)
+![Dark Mode](https://github.com/Abhinav-Kukreti/analytics-platform/blob/main/screenshots/Screenshot%20(2).png)
 
-### User Profile Management
-![Profile](screenshots/profile-page.png)
+### Login Page
+![Profile](https://github.com/Abhinav-Kukreti/analytics-platform/blob/main/screenshots/Screenshot%20(3).png)
 
 ### Mobile Responsive
-![Mobile](screenshots/mobile-view.png)
+![Mobile](https://github.com/Abhinav-Kukreti/analytics-platform/blob/main/screenshots/Screenshot%20(4).png)
+![Mobile](https://github.com/Abhinav-Kukreti/analytics-platform/blob/main/screenshots/Screenshot%20(5).png)
+![Mobile](https://github.com/Abhinav-Kukreti/analytics-platform/blob/main/screenshots/Screenshot%20(6).png)
+![Mobile](https://github.com/Abhinav-Kukreti/analytics-platform/blob/main/screenshots/Screenshot%20(7).png)
+
 
 ## 🛠️ Tech Stack
 
